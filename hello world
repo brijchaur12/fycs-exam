@@ -1,0 +1,3 @@
+#hello world
+a=int(input("enter user name"))
+print("hello world",a)
